@@ -1,0 +1,39 @@
+User 1
+{
+"action":"updateConnectionId",
+"email":"bhaumikkore@gmail.com",
+"username":"bhaumik"
+}
+
+User 2
+{
+"action":"updateConnectionId",
+"email":"mohdmehdi2003@gmail.com",
+"username":"Mohammed"
+}
+
+User 1
+{
+"action":"sendPrivate",
+"messageText":"I am very happy.",
+"senderEmail":"bhaumikkore@gmail.com",
+"receiverEmail":"mohdmehdi2003@gmail.com"
+}
+
+User 2
+{
+"action":"sendPrivate",
+"messageText":"I am very Sad.",
+"senderEmail":"mohdmehdi2003@gmail.com",
+"receiverEmail":"bhaumikkore@gmail.com"
+}
+
+{
+"action":"fetchAllMessages",
+"entity1":"bhaumikkore@gmail.com",
+"entity2":"mohdmehdi2003@gmail.com"
+}
+
+{
+"action":"fetchAllUsers"
+}

@@ -1,0 +1,26 @@
+{
+    "event": "newPrivateMessage",
+    "message": {
+      "conversationId": {
+        "S": "123456@gmail.com&mohdmehdi2003@gmail.com"
+      },
+      "timestamp": {
+        "S": "2023-11-16T14:25:06.439Z"
+      },
+      "messageText": {
+        "S": "Hello there. i am very happy."
+      },
+      "receiverEmail": {
+        "S": "mohdmehdi2003@gmail.com"
+      },
+      "receiverUsername": {
+        "S": "Mohammed Mehdi"
+      },
+      "senderEmail": {
+        "S": "123456@gmail.com"
+      },
+      "senderUsername": {
+        "S": "satvam"
+      }
+    }
+  }
