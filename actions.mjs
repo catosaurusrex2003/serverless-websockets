@@ -47,7 +47,7 @@ export const $connect = async () => {
 export const updateConnectionId = async (payload, meta) => {
   /* 
   update the document in Users table with the new connection id
-  if no document present then creates one 
+  if no document with that email is present then creates one
   */
 
   // the document
